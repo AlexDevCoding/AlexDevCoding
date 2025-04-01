@@ -2,7 +2,7 @@
 
 ## 📍 Información Personal  
 
-Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, actualmente con el título de **TSU en Informática**. Tengo experiencia en desarrollo Full Stack, análisis de datos y visualización de información para la toma de decisiones. Trabajo en la **AC Bibliotecas Virtuales de Aragua**, donde me especializo en el desarrollo de plataformas y paneles estadísticos.  
+Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, con el título de **TSU en Informática**. Tengo experiencia en desarrollo Full Stack, análisis de datos y visualización de información para la toma de decisiones. He trabajado en proyectos de desarrollo de plataformas, tiendas virtuales y paneles estadísticos interactivos.  
 
 ## 🛠️ Habilidades Técnicas  
 
@@ -66,4 +66,4 @@ Puedes ponerte en contacto conmigo a través de los siguientes medios:
 📧 **Correo electrónico:** henriquezjosue384@gmail.com  
 📱 **Teléfono:** (+58) 4243164917  
 🌐 **Portafolio:** [josue-henriquez.netlify.app](https://josue-henriquez.netlify.app/)  
-🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)
+🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)  
