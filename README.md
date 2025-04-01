@@ -66,5 +66,4 @@ Puedes ponerte en contacto conmigo a través de los siguientes medios:
 📧 **Correo electrónico:** henriquezjosue384@gmail.com  
 📱 **Teléfono:** (+58) 4243164917  
 🌐 **Portafolio:** [josue-henriquez.netlify.app](https://josue-henriquez.netlify.app/)  
-🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)  
-💻 **GitHub:** [Perfil de GitHub](https://github.com/ezetalamona)  
+🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)
