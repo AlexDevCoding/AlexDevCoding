@@ -1,23 +1,56 @@
-<h1 align="center">Hola 👋, soy Josue Henriquez</h1>
-<h3 align="center">Un desarrollador de frontend apasionado de India</h3>
+# 👨‍💻 Sobre mí  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexdevcoding" alt="alexdevcoding" /></a> </p>
+## 📍 Información Personal  
 
-- ⁇ dice todos mis proyectos están disponibles en [https://josue-henriquez.netlify.app/](https://josue-henriquez.netlify.app/)
+Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, actualmente con el título de **TSU en Informática**. Tengo experiencia en desarrollo Full Stack, análisis de datos y visualización de información para la toma de decisiones. Trabajo en la **AC Bibliotecas Virtuales de Aragua**, donde me especializo en el desarrollo de plataformas y paneles estadísticos.  
 
-- 📫 como llegar a mi **henriquezjosue384@mail.com**
+## 🛠️ Habilidades Técnicas  
 
-<h3 align="left">Conectar conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josue-henriquez-rodriguez-8665111b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-henriquez-rodriguez-8665111b6" height="30" width="40"/></a>
-</p>
+### 📌 Lenguajes de Programación  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>//seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>//seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>/a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>/a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🗄️ Bases de Datos  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdevcoding&show_icons=true&locale=en&layout=compact" alt="alexdevcoding"/></p>
+### 📊 Análisis y Visualización de Datos  
+![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png)  
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png)  
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg)  
+![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)  
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)  
+![Numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)  
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdevcoding&show_icons=true&locale=en" alt="alexdevcoding" /></p>
+### 🎨 Desarrollo Web y Frameworks  
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)  
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)  
+![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg)  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdevcoding&" alt="alexdevcoding" /></p>
+## 📌 Proyectos Destacados  
 
+### 🛠️ Sistema de Gestión de Empleados  
+Desarrollé un sistema de gestión para la **Asociación Civil de las Bibliotecas Virtuales de Aragua**, con dos niveles de usuario (Administrador y Empleado) y una página de error 404 personalizada.  
+
+### 📊 Visualización de Datos en Proyectos Educativos  
+Implementé paneles estadísticos interactivos que permiten a los administradores generar informes detallados sobre la base de datos de estudiantes, mejorando la toma de decisiones basada en datos.  
+
+## 🎓 Formación Académica  
+
+- **TSU en Informática** – Instituto Universitario de Tecnología y Administración Industrial (IUTA)  
+- **Diplomado en Desarrollo Web**  
+
+## 📞 Contacto  
+
+Puedes ponerte en contacto conmigo a través de los siguientes medios:  
+
+📧 **Correo electrónico:** henriquezjosue384@gmail.com  
+📱 **Teléfono:** (+58) 4243164917  
+🌐 **Portafolio:** [josue-henriquez.netlify.app](https://josue-henriquez.netlify.app/)  
+🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)  
+💻 **GitHub:** [Perfil de GitHub](https://github.com/ezetalamona)  
