@@ -45,6 +45,12 @@ Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, a
 ### 🛠️ Sistema de Gestión de Empleados  
 Desarrollé un sistema de gestión para la **Asociación Civil de las Bibliotecas Virtuales de Aragua**, con dos niveles de usuario (Administrador y Empleado) y una página de error 404 personalizada.  
 
+### 🛍️ Tienda Virtual  
+Diseñé y desarrollé una tienda virtual utilizando **PHP y MySQL**, con integración de pasarelas de pago y un sistema de gestión de productos.  
+
+### 📊 Análisis de Datos de Netflix  
+Realicé un análisis exploratorio de datos utilizando **Python, Pandas y Power BI**, evaluando tendencias en contenido, géneros más populares y duración de las series y películas en la plataforma de **Netflix**.  
+
 ### 📊 Visualización de Datos en Proyectos Educativos  
 Implementé paneles estadísticos interactivos que permiten a los administradores generar informes detallados sobre la base de datos de estudiantes, mejorando la toma de decisiones basada en datos.  
 
