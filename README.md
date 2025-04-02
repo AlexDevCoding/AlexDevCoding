@@ -44,7 +44,7 @@ Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexDevCoding&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="32%">
-  ![Racha](https://streak-stats.demolab.com?user=AlexDevCoding&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDevCoding&theme=radical" alt="Racha de contribuciones" width="32%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevCoding&layout=compact&theme=radical" alt="Lenguajes más usados" width="32%">
 </p>
 
@@ -75,3 +75,4 @@ Puedes ponerte en contacto conmigo a través de los siguientes medios:
 📱 **Teléfono:** (+58) 4243164917  
 🌐 **Portafolio:** [josue-henriquez.netlify.app](https://josue-henriquez.netlify.app/)  
 🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)  
+ porque la racha de contribuciones no se muestra
