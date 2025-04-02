@@ -40,6 +40,20 @@ Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueHenriquez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueHenriquez&theme=radical" alt="Racha de contribuciones">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueHenriquez&layout=compact&theme=radical" alt="Lenguajes más usados">
+</p>
+
 ## 📌 Proyectos Destacados  
 
 ### 🛠️ Sistema de Gestión de Empleados  
