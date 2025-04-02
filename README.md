@@ -43,9 +43,9 @@ Mi nombre es **Josue Henriquez**. Soy **Analista de Datos** y **Programador**, c
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueHenriquez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueHenriquez&theme=radical" alt="Racha de contribuciones">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueHenriquez&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDevCoding&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDevCoding&theme=radical" alt="Racha de contribuciones" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDevCoding&layout=compact&theme=radical" alt="Lenguajes más usados" width="32%">
 </p>
 
 ## 📌 Proyectos Destacados  
