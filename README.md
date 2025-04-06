@@ -75,4 +75,4 @@ Puedes ponerte en contacto conmigo a través de los siguientes medios:
 📱 **Teléfono:** (+58) 4243164917  
 🌐 **Portafolio:** [josue-henriquez.netlify.app](https://josue-henriquez.netlify.app/)  
 🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/josue-henriquez-rodriguez-8665111b6)  
- porque la racha de contribuciones no se muestra
+
